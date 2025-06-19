@@ -18,8 +18,8 @@ Steps to follow before running the project.
 Place the correct path to your CSV file containing article data at the specified location:
 
 //path of the csv file
-String csvFile =
-"C:/donny/Brave/Article.csv";
+
+String csvFile = "C:/donny/Brave/Article.csv";
 
 Ensure that the path to your CSV file is correct.
 Run the Main class's main method to execute the application.
